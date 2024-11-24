@@ -18,9 +18,13 @@
   },
   "homepage": "https://github.com/marcjmiller/typescript-tdd-kata#readme",
   "devDependencies": {
+    "@types/chai": "^5.0.1",
     "@types/jest": "^24.0.19",
+    "@types/mocha": "^10.0.10",
     "@types/node": "^12.11.6",
+    "chai": "^5.1.2",
     "jest": "^24.9.0",
+    "mocha": "^10.8.2",
     "ts-jest": "^24.1.0",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
